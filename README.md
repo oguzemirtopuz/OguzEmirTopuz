@@ -49,7 +49,7 @@ From a very young age, I have immersed myself in technology, building production
 
 ### 📂 Featured Projects
 
-#### 🎬 [YouTube Analyse Pro (SaaS Edition)](https://github.com/oguzemirtopuz/YouTube-Analyse-Uygulamasi-SaaS-Edition)
+#### 🎬 [YouTube Analyse Pro (SaaS Edition)](https://github.com/oguzemirtopuz/YouTube-Analyse-Pro-SaaS-Edition)
 *   **Description:** A complete, asynchronous video analytics platform built for creators, featuring computer vision (thumbnail contrast/emotion analytics), voice & tempo evaluation, and an smart AI Coach.
 *   **Technologies:** Python, FastAPI, SQLite (aiosqlite WAL), OpenCV, Librosa, Gemini 2.0 Flash Vision, Llama-3.3-70B.
 
