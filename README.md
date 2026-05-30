@@ -71,7 +71,7 @@ High-performance, single-purpose web platforms hosted on the cloud.
 
 ### 🛠️ Developer Tooling & Engineering Utilities
 Precision instruments built for developers — tools that enforce code quality, surface hidden bugs, and make the invisible visible.
-*   **[PyAuditor](https://github.com/oguzemirtopuz/PyAuditor):** A standalone desktop-grade Python code auditor combining 25-rule AST static analysis with an innovative "Bring Your Own AI" (BYOAI) architecture. Detects everything from asyncio race conditions and silent exception swallowing to off-by-one errors and wrong comparison operators — each finding delivered with an exact fix instruction and a concrete runtime risk assessment via its specialized prompt generator for ChatGPT, Claude, and Gemini.
+*   **[PyAuditor](https://github.com/oguzemirtopuz/PyAuditor):** A standalone desktop-grade Python code auditor combining 25-rule AST static analysis with an innovative "Bring Your Own AI" (BYOAI) architecture. Detects everything from asyncio race conditions and silent exception swallowing to off-by-one errors and wrong comparison operators — each finding delivered with an exact fix instruction and a concrete runtime risk assessment via its specialized prompt generator for ChatGPT, Claude, Gemini, and many more.
 
 ---
 
