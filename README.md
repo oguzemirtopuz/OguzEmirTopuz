@@ -69,6 +69,10 @@ High-performance, single-purpose web platforms hosted on the cloud.
 ### 🎮 Immersive Game Development
 *   **[Cropocalypse (Steam Wishlist)](https://store.steampowered.com/app/4259600/Cropocalypse/):** A captivating 3D farming simulator powered by Unity and C#. Features stylized cell-shaded aesthetics, complex automated agricultural pipelines, and deep physics-based equipment mechanics. **Officially listed on Steam!**
 
+### 🛠️ Developer Tooling & Engineering Utilities
+Precision instruments built for developers — tools that enforce code quality, surface hidden bugs, and make the invisible visible.
+*   **[PyAuditor](https://github.com/oguzemirtopuz/PyAuditor):** A standalone desktop-grade Python code auditor combining 25-rule AST static analysis with Google Gemini AI logical reasoning. Detects everything from asyncio race conditions and silent exception swallowing to off-by-one errors and wrong comparison operators — each finding delivered with an exact fix instruction and a concrete runtime risk assessment.
+
 ---
 
 ## 📊 Performance & Analytics
