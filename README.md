@@ -90,7 +90,7 @@ I am continuously exploring new paradigms in AI, SaaS architecture, and open-sou
 
 *   🐙 **GitHub:** [@oguzemirtopuz](https://github.com/oguzemirtopuz)
 *   📧 **Email:** [oguzemirtopuz10@gmail.com](mailto:oguzemirtopuz10@gmail.com)
-*   🌐 **Personal Website:** *Architecting in progress...*
+*   🌐 **Personal Website:** [oguzemirtopuz.dev](https://oguzemirtopuz.github.io/)
 
 ---
 
