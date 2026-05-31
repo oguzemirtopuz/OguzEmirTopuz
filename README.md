@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Oğuz Emir Topuz (`oguzemirtopuz`)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=F7DF1E&width=435&lines=14-Year-Old+Fullstack+Developer;Football+Enthusiast+%26+Dev;SaaS+Product+Builder;3D+Game+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=F7DF1E&width=435&lines=15-Year-Old+Fullstack+Developer;Football+Enthusiast+%26+Dev;SaaS+Product+Builder;3D+Game+Designer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 The Vision & The Architect
 
-I am **Oğuz Emir Topuz**, a highly passionate 14-year-old full-stack software engineer and system architect. My life revolves around two disciplines: **High-Performance Football** and **Elite Software Architecture**. 
+I am **Oğuz Emir Topuz**, a highly passionate 15-year-old full-stack software engineer and system architect. My life revolves around two disciplines: **High-Performance Football** and **Elite Software Architecture**. 
 
 From a very young age, I have relentlessly pursued the bleeding edge of technology. I do not just write code; I engineer production-grade SaaS platforms, autonomous AI operative systems, local-first intelligence pipelines, and immersive 3D games from the ground up. My philosophy is built on absolute autonomy, seamless automation, and zero-latency performance.
 
