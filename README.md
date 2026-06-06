@@ -63,6 +63,7 @@ A complete, end-to-end media generation pipeline engineered for content creators
 
 ### 🌐 Production-Grade Web Utilities
 High-performance, single-purpose web platforms hosted on the cloud.
+*   **[SuperArmor PDF Generator](https://github.com/oguzemirtopuz/SuperArmor-PDF-Generator):** A serverless, zero-latency autonomous exam preparation ecosystem. Ingests raw YouTube transcripts and MEB scenario images via Tesseract.js OCR, leveraging Claude/Gemini APIs to engineer elite pedagogical "Super Armor" PDF notes with dynamically highlighted trap zones and strategic reflexes.
 *   **[VocalCleaner (Live Web Application)](https://vocalcleaner.onrender.com/):** A dual-engine AI audio enhancing studio pipeline chaining CleanVoice AI for surgical de-noise and Auphonic API for broadcast-standard loudness normalizations.
 *   **[Finish & Click](https://github.com/oguzemirtopuz/finish-and-click):** A dynamic, gamified front-end web challenge demonstrating polished CSS3 animations, tight JavaScript event loops, and interactive user experiences.
 
