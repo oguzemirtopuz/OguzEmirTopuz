@@ -126,7 +126,7 @@ A complete creator pipeline — from virality analysis to rendered output, fully
 |---|---|
 | **[RankVibe Automation](https://github.com/oguzemirtopuz/RankVibe_Automation_Public)** | Autonomous short-form video generator — concept to rendered MP4 using AI + computer vision |
 | **[ViralCut Pro](https://github.com/oguzemirtopuz/ViralCut)** | Zero-reencoding video trimmer — instant cuts via FFmpeg stream-copy and async byte streaming |
-| **[AutoCutter](https://github.com/oguzemirtopuz/AutoCutter)** | AI multi-track silence remover — Silero VAD, N-track simultaneous analysis, EDL output for DaVinci Resolve |
+| **[AutoCutter](https://github.com/oguzemirtopuz/AutoCutter)** | AI multi-track silence remover with energy-based clip classification — Silero VAD, dual-mode (Marker/Auto-Delete), separated marker EDL system, DaVinci Resolve integration |
 | **[VocalCleaner](https://vocalcleaner.onrender.com/) 🌐** | Dual-engine AI audio mastering — CleanVoice de-noise → Auphonic broadcast pipeline, **live on Render** |
 
 ---
