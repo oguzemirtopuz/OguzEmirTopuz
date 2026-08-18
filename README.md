@@ -18,7 +18,7 @@
 
 [![Steam Listed](https://img.shields.io/badge/Steam-Cropocalypse_Listed-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4259600/Cropocalypse/)
 [![Live SaaS](https://img.shields.io/badge/Live_SaaS-2_Deployed-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://vocalcleaner.onrender.com/)
-[![Open Source](https://img.shields.io/badge/Open--Source_Projects-9-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open--Source_Projects-10-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
 [![Age](https://img.shields.io/badge/Age-15-FF6B6B?style=for-the-badge&logoColor=white)](https://oguzemirtopuz.github.io/)
 
 </div>
@@ -115,6 +115,7 @@ Tools that save engineering time with no setup overhead and no excuses.
 | Project | Description |
 |---|---|
 | **[PyAuditor](https://github.com/oguzemirtopuz/PyAuditor)** | 25-rule AST static analyzer + BYOAI logic-review prompt generator. Zero dependencies. Pure Python stdlib. Sub-2-second scans. |
+| **[AutoDelete_Temp](https://github.com/oguzemirtopuz/AutoDelete_Temp)** | Zero-overhead Windows startup cleaner. Permanently purges user `%TEMP%` & `System Temp` with locked-file evasion and native toast reporting. |
 
 ---
 
