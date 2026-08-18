@@ -203,8 +203,8 @@ Most automation targets the obvious. I target the edges — cognitive workflows,
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzemirtopuz&theme=tokyonight" alt="Contribution Streak" height="180px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzemirtopuz&theme=tokyonight" alt="Contribution Graph" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=oguzemirtopuz&theme=tokyonight" alt="Contribution Streak" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzemirtopuz&theme=tokyo-night" alt="Contribution Graph" height="180px" />
 </div>
 
 ---
