@@ -18,7 +18,7 @@
 
 [![Steam Listed](https://img.shields.io/badge/Steam-Cropocalypse_Listed-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4259600/Cropocalypse/)
 [![Live SaaS](https://img.shields.io/badge/Live_SaaS-2_Deployed-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://vocalcleaner.onrender.com/)
-[![Open Source](https://img.shields.io/badge/Open--Source_Projects-10-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open--Source_Projects-11-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
 [![Age](https://img.shields.io/badge/Age-15-FF6B6B?style=for-the-badge&logoColor=white)](https://oguzemirtopuz.github.io/)
 
 </div>
@@ -38,6 +38,7 @@
 | | |
 |---|---|
 | 🎮 **Game shipped to Steam** | [Cropocalypse](https://store.steampowered.com/app/4259600/Cropocalypse/) — 3D cell-shaded Unity/C# farming sim, publicly listed and available on the Steam Store |
+| ⚡ **Autonomous SaaS factory** | [Idea to SaaS](https://github.com/oguzemirtopuz/ideatosaas) — transforms raw ideas into PRDs, live-executable React 18 apps, and viral GTM plans in <60s |
 | 🌐 **SaaS serving real users** | [VocalCleaner](https://vocalcleaner.onrender.com/) — dual-engine AI audio mastering, live on Render and accessible to anyone right now |
 | 🔧 **Zero-install developer tool** | [PyAuditor](https://github.com/oguzemirtopuz/PyAuditor) — 25 static analysis rules, pure Python stdlib, scans thousands of lines in under 2 seconds |
 | 🧠 **39-module autonomous agent** | [JARVIS](https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS) — self-healing cognitive OS with episodic memory, live skill synthesis, and zero-intervention failure recovery |
@@ -138,6 +139,7 @@ Beyond content — production web infrastructure for real teams and real workflo
 
 | Project | Description |
 |---|---|
+| **[Idea to SaaS](https://github.com/oguzemirtopuz/ideatosaas)** | Autonomous SaaS prototyping & GTM engine — AI PRD architect, zero-dependency React 18 live sandbox, iterative refactor copilot & ZIP export |
 | **[Finish & Click](https://github.com/oguzemirtopuz/finish-and-click)** | Enterprise project management SaaS — Kanban + table view, Supabase RLS, real-time collaboration |
 | **[Deal Hunter](https://github.com/oguzemirtopuz/deal-hunter) 🌐** | Real-time Steam & Epic Games discount aggregator — glassmorphism UI, price alerts, TR pricing |
 | **[SuperArmor PDF Generator](https://github.com/oguzemirtopuz/SuperArmor-PDF-Generator)** | Serverless AI exam prep PDF generator — Groq Vision OCR + Llama 3.3 70B |
