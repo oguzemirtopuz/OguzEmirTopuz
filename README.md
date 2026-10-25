@@ -116,6 +116,7 @@ Tools that save engineering time with no setup overhead and no excuses.
 | Project | Description |
 |---|---|
 | **[PyAuditor](https://github.com/oguzemirtopuz/PyAuditor)** | 25-rule AST static analyzer + BYOAI logic-review prompt generator. Zero dependencies. Pure Python stdlib. Sub-2-second scans. |
+| **[README Preview Generator](https://github.com/oguzemirtopuz/README-Preview-Generator)** | 1080p Full HD animated repository showcase & GIF synthesizer — native Pillow typography, zero ImageMagick, contextual terminal simulation & auto-categorizer. |
 | **[AutoDelete_Temp](https://github.com/oguzemirtopuz/AutoDelete_Temp)** | Zero-overhead Windows startup cleaner. Permanently purges user `%TEMP%` & `System Temp` with locked-file evasion and native toast reporting. |
 
 ---
@@ -205,8 +206,8 @@ Most automation targets the obvious. I target the edges — cognitive workflows,
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=oguzemirtopuz&theme=tokyonight" alt="Contribution Streak" height="180px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzemirtopuz&theme=tokyo-night" alt="Contribution Graph" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzemirtopuz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=oguzemirtopuz&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="180px" />
 </div>
 
 ---
