@@ -25,6 +25,12 @@
 
 ---
 
+<div align="center">
+  <img src="preview.gif" alt="Oğuz Emir Topuz Portfolio Showcase" width="100%" />
+</div>
+
+---
+
 ## ⚡ Focus
 
 **Autonomous AI systems and automation platforms** — purpose-built to eliminate cognitive and creative bottlenecks. Every system here is deployed, solves a specific problem, and handles real workloads.
