@@ -18,7 +18,7 @@
 
 [![Steam Listed](https://img.shields.io/badge/Steam-Cropocalypse_Listed-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4259600/Cropocalypse/)
 [![Live SaaS](https://img.shields.io/badge/Live_SaaS-2_Deployed-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://vocalcleaner.onrender.com/)
-[![Open Source](https://img.shields.io/badge/Open--Source_Projects-11-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open--Source_Projects-12-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
 [![Age](https://img.shields.io/badge/Age-15-FF6B6B?style=for-the-badge&logoColor=white)](https://oguzemirtopuz.github.io/)
 
 </div>
@@ -146,6 +146,7 @@ Beyond content — production web infrastructure for real teams and real workflo
 
 | Project | Description |
 |---|---|
+| **[InstantReplyHub](https://github.com/oguzemirtopuz/InstantReplyHub-)** | Autonomous AI lead responder & conversion engine — sub-5s response turnaround, universal webhook normalizer (Typeform/Tally/Webflow), Gemini 1.5 Flash, multi-tenant Supabase RLS |
 | **[Idea to SaaS](https://github.com/oguzemirtopuz/ideatosaas)** | Autonomous SaaS prototyping & GTM engine — AI PRD architect, zero-dependency React 18 live sandbox, iterative refactor copilot & ZIP export |
 | **[Finish & Click](https://github.com/oguzemirtopuz/finish-and-click)** | Enterprise project management SaaS — Kanban + table view, Supabase RLS, real-time collaboration |
 | **[Deal Hunter](https://github.com/oguzemirtopuz/deal-hunter) 🌐** | Real-time Steam & Epic Games discount aggregator — glassmorphism UI, price alerts, TR pricing |
