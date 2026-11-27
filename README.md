@@ -18,7 +18,7 @@
 
 [![Steam Listed](https://img.shields.io/badge/Steam-Cropocalypse_Listed-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/4259600/Cropocalypse/)
 [![Live SaaS](https://img.shields.io/badge/Live_SaaS-2_Deployed-46e3b7?style=for-the-badge&logo=render&logoColor=white)](https://vocalcleaner.onrender.com/)
-[![Open Source](https://img.shields.io/badge/Open--Source_Projects-13-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open--Source_Projects-14-00C8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzemirtopuz?tab=repositories)
 [![Age](https://img.shields.io/badge/Age-15-FF6B6B?style=for-the-badge&logoColor=white)](https://oguzemirtopuz.github.io/)
 
 </div>
@@ -146,6 +146,7 @@ Beyond content — production web infrastructure for real teams and real workflo
 
 | Project | Description |
 |---|---|
+| **[ScopeLock](https://github.com/oguzemirtopuz/ScopeLock)** | Autonomous B2B scope & quote engine for agencies — AI deliverable extraction (Gemini 1.5 Flash), scope creep shield (out-of-scope boundaries), interactive client approval portal, deposit enforcer, bilingual TR/EN |
 | **[InvoiceChaser](https://github.com/oguzemirtopuz/InvoiceChaser)** | Autonomous B2B invoice & payment follow-up bot — progressive 4-tier escalation (Gemini 1.5 Flash), bilingual TR/EN, multi-tenant Supabase RLS, Resend email dispatch |
 | **[InstantReplyHub](https://github.com/oguzemirtopuz/InstantReplyHub-)** | Autonomous AI lead responder & conversion engine — sub-5s response turnaround, universal webhook normalizer (Typeform/Tally/Webflow), Gemini 1.5 Flash, multi-tenant Supabase RLS |
 | **[Idea to SaaS](https://github.com/oguzemirtopuz/ideatosaas)** | Autonomous SaaS prototyping & GTM engine — AI PRD architect, zero-dependency React 18 live sandbox, iterative refactor copilot & ZIP export |
